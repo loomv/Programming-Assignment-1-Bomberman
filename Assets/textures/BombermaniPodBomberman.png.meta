@@ -1,0 +1,2965 @@
+fileFormatVersion: 2
+guid: 503be40209f949947bb6022e2322f6dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218baf691421a14c84e9e3fc9a04f4f
+      internalID: 618163989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 359
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27b2f4f296f0d42a8e357ecb8a30de
+      internalID: -938645451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 394
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de67b6640e3e2e4d90f2ee5276e73ab
+      internalID: -293615439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 359
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09ea0c1f51c834590cc112f76c4c18
+      internalID: 1904350610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 394
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560333aac0604b4498a31a02eee963e6
+      internalID: -911355090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 359
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735032c36ef7864ab5fb0dad752459b
+      internalID: 1825727514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 394
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e186d35e212848ae123fdbf3b68be
+      internalID: -549315384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 359
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be55a1e997b374795665dc76347d7d
+      internalID: 1269226612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 392
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb478dcf978ad4c8916686066d29e2
+      internalID: 2116262467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 359
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed921a8be0e82ab40b4f215e17598f22
+      internalID: 1061268041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 394
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa39e0ad1c74e2418b1204e2a3b9909
+      internalID: -225311098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 360
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f1d0a87cf35a48b3a1f616591d47c
+      internalID: 1804965362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859f4d2683660f45934b3084ea626e3
+      internalID: 2109756353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 359
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf5d5731319e848be63f6102161984
+      internalID: -1590146006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 359
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb33d49719d2684caade6fdb0c2d8f3
+      internalID: -752787385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 394
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a587e3b7e8b5746a1f12a4d1565b74
+      internalID: 1996326452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 360
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cccb9340d6fb040926623daba2d432
+      internalID: 1618923318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5321145fb5fe444b4258726ce16b8c
+      internalID: -1217383781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 394
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8718b5748b08f44dad158cfa840c7f0
+      internalID: -188959973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 380
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242ae775b6d2d945a97e843e6296a98
+      internalID: -1357841513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 332
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e70c604d6f9ec844bf52ef41f0ca27a
+      internalID: -1704827166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 331
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8aeca505d6dad468512983e74ed514
+      internalID: -1956860967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 380
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113c05df18d1c045a0ef32016847a0d
+      internalID: -2056922837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 331
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9bb08d203dc0743b4d0b9b3a1c675a
+      internalID: 1058340659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 381
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdec4d6fde3604abcd886ff8a45509
+      internalID: 986143421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 332
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a08eb16266c7d4ebe6735d628e5a38
+      internalID: 521678453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 380
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7def1ccf60d0e4fa0806ee5fb1af92
+      internalID: 1045683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 331
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca6f040d1ff0a46a5b0582acd2ee6c
+      internalID: -196039968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 380
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34c0336e54d674181ad1a50d223f74
+      internalID: -55686188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_29
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 330
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84c90b73aeaa04bbc2774ecf487fcd
+      internalID: -1193569632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 380
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b6c6587d71317499f0c6c7745b7b6f
+      internalID: 1009751845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8ed02c3983c74faea7e4d5e05c539
+      internalID: 430192917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 326
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fb29b01db89d47a6eb45443067ff9
+      internalID: -108399476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 325
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540708d90b3f334594772df9b187097
+      internalID: -774485131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 326
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e20e3bb14e3a4bb02694bbae9325a
+      internalID: 1644857373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 326
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189217bf60eb7bc4aba64badc0300cf0
+      internalID: -149954115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 325
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbe1637e512dd4eba151afa7a8915e
+      internalID: 562530667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 326
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b45a8aa442e740a477f2afaf521aa
+      internalID: 310555826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 324
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006a57e3035219409a82851514287b6
+      internalID: -1344120453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 325
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f686e616be0623f40956ad028ca9519d
+      internalID: 589720208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 292
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca547afc28352a40b92d25fd6c51169
+      internalID: -796630828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 295
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b74e3ae4f9d9449b0690ad040a168
+      internalID: -533547300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490c1617d492044ea7aaf9903146dae
+      internalID: 1849324575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 302
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430fc8474e047743ae85f6c23d18e4a
+      internalID: 1253649174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 299
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e476c617e1295443a9e4a9713188f50
+      internalID: 1510489686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e019773d2faec48a57f5fd1c641d4f
+      internalID: -381204042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 293
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567eff311e1f9748be254e31732ee85
+      internalID: -568106715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 298
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ebb5843a943c9479f92c36dbee91b9
+      internalID: 1224706675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 292
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca82a678fa1e14b90d645fc0730df6
+      internalID: 356603553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 292
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab77585e102f7242b9a1db5c38c4c5d
+      internalID: -2057941979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 282
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf833793ee8a5d04ba86923b212c0a99
+      internalID: -1140879060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 283
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cd6d23fe533d42a20279ad751dae3
+      internalID: -1285610519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 284
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9af2a290c9d684586325750245de24
+      internalID: -694885085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 284
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c2c0b0dd51054c8bd34c19955a6f5
+      internalID: -1204292258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 284
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c278e339685844b20e97df8116af2
+      internalID: -1269100288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_55
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 284
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b120c8c0ceeab4aa71745135d6ffbd
+      internalID: -2073034315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fcba32f5020d0479266a2193e87a51
+      internalID: -1682900479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d633673a1096db47b0d18a32c6a1cd4
+      internalID: -304102017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 261
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e0aaeacabe93498293519516d935f
+      internalID: -554454229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 258
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a3a2f51e667a4298a9fde26bbbf0e
+      internalID: 1665207955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9597a24908d2e140b6e47929d853718
+      internalID: -1520290353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 261
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04757c421fd664d87aa0c35b67e8ce
+      internalID: 2005846133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 258
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a72cd9a21bcd4fa164e77717ae699
+      internalID: -1456885166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 261
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d137c2b4d7a1494fb1628f38673619f
+      internalID: 980966448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 264
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031baa642498b8a41bc475e614bf44ee
+      internalID: -258841282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_65
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 259
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137655d51065a944b71222735eb4fd0
+      internalID: -160735661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917270deabbb1448915795aac166a83
+      internalID: -1491058659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d503229213084ba887c51034bd76d
+      internalID: -1336509934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_68
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358caf5799b4a84fb8c7d1548d792d1
+      internalID: 47828633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 206
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41d7e225db36d43bd2b0b3893b6164
+      internalID: 735685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 206
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cdac449c50117429b862a3e0eeda8a
+      internalID: -990782438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 209
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b6922a7b17bb448815279de8351ec
+      internalID: -1408193872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_72
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 208
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707b1e94b9fdd04aa31d9460f7dc5a4
+      internalID: 525499899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6fcd0addbd9ec49b91cdce29b8cc98
+      internalID: 361055229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 208
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242edbad28113a46b78a8a84f70d7f2
+      internalID: -1257958167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 208
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b88504c24c154385b4c422bd3502c
+      internalID: 1458489236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_76
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 208
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d03a8e0c85e94d4fa34e7f326beed63
+      internalID: -1652181530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 208
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa8f2e071653e4aade017e423df646
+      internalID: 1272560067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 208
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1073ab69b3cf74aa1bb40b33e0a723
+      internalID: 578271997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 209
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ead12a1d0fd24f9c433d07533a035
+      internalID: -943445168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a8b0442201ccf43b67ea2442eec314
+      internalID: 1852391499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 167
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0f901f0bb2764f89e414d22daeaca
+      internalID: 538750766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ca8b46fbcf154f8b869fb1c2073ef
+      internalID: -1938289715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 174
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c408c3e33c7a4eaf1582ebd664cbe
+      internalID: -552924449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56280fcbb14fd441b5fc975feb6cb4e
+      internalID: 1812532810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 156
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddffd87181a10e40838daa96364ebda
+      internalID: 1593658186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_86
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 190
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a5143044959cb48b15c8464e2837fa
+      internalID: -808243627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_87
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 160
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0bed3ef44dce4c9c766948c537fa0
+      internalID: 725449472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 160
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82dd33ff0fc8847b0e9f1bc9fad906
+      internalID: -473209832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 190
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a1744aa1e54f45a852157fd887ebf
+      internalID: 1857769048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_90
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 160
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461d1a2e01e697458ee36646289e06a
+      internalID: -2017332992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 160
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a39a56f3ee88149ba94ff70311cdda
+      internalID: -775320691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_92
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 190
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f687b2baa6254987a803d01f58a89
+      internalID: 822767247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_93
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 161
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990ffaa5efaaef4d8990a4442c74b08
+      internalID: 1177732906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 160
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9019f795b8a4d34ba135935ab85e0c6
+      internalID: -1351222420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_95
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 190
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb071552d4f11499d452100d421c8d
+      internalID: -1150332508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_96
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 160
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de555e5055316894f8fb816227b69610
+      internalID: 1432484021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_97
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 163
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ee00b2d903724e81c57a2c2cac6c2
+      internalID: -1848439334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_98
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 106
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a97469c9ad9d2b48a08106ffbca56dd
+      internalID: 857204927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_99
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58096bae7ac920a438c998c54307cb3d
+      internalID: -2072555523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_100
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 106
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c77f96b6597b24997ea8b124851220
+      internalID: 1319317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98425e7f4029c84db6e8188f9ef566c
+      internalID: 1073862200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 106
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac86845c365f9944a2b0785bab30330
+      internalID: 868902138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_103
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 106
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3475ce18562f84fbf5be044f815b12
+      internalID: 61229676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd6d11663bbdb4eb7299ddd811a0dc
+      internalID: -2113256967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 113
+        width: 134
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85108c20c36cb7844aafbf193592ee7e
+      internalID: 1282538947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_106
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 113
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d135551d21b654c9c08d82ae47d3c7
+      internalID: 361414211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_107
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 113
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e59088536543489d7f81fb358484d
+      internalID: 1267361377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab562dc15cd5c04bb632497b9220456
+      internalID: -2094693676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06601bb035e9cac42a9a9b9fbe62a5bf
+      internalID: -661496614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_110
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5b90dec8416a4292aa22861ad71a0
+      internalID: -1629727595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6c4ab7774460148b8af51cc0a171e7
+      internalID: 1227070897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7ce3b904a82b47a9899b0ea2bb189
+      internalID: 938295767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 55
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4bb7c617708f4d876d08ef75a8fa2
+      internalID: -145015581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55526f8d1cafffb4a94ff839a6eaeeff
+      internalID: 658995880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_115
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 69
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b447577f68665941ac8622280d6645d
+      internalID: -959980280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_116
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 70
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426cdd810846a341aa719717edd1f16
+      internalID: 294029791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_117
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 64
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dcf356f6f4d444f94e61f4fb57ca3d
+      internalID: -1646107916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_118
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 67
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d45ad44ff6b4004f8fbd20de03bdf39
+      internalID: -631679231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_119
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026eca79e1e5e2b47a1f9b3a3e61ae73
+      internalID: -1227829906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbccf2dd3f87c147918fb8276492801
+      internalID: 1962406219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_121
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd178a893e402429c5ab2016ba4e0b
+      internalID: -1289014818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22feacc907af17a49a67371388ad7c77
+      internalID: 2037615335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_123
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99147df32238d942b8320cf8dcc03e7
+      internalID: 644558456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_124
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82353b92f00df140a57fcb0a6f0e3cd
+      internalID: -1689397809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_125
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd898dd10ad32b24bad3a67c83fea5cd
+      internalID: 643772416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_126
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30e6563d90c1b44a107290db6294c6
+      internalID: -2107064317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_127
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 16
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25a8b4eb7cb0c4ca476bc7c3ef3629
+      internalID: -1267462164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombermaniPodBomberman_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a1b4e0ea6a0c4b958f422c377efa0
+      internalID: -1034239894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BombermaniPodBomberman_0: 618163989
+      BombermaniPodBomberman_1: -938645451
+      BombermaniPodBomberman_10: -225311098
+      BombermaniPodBomberman_100: 1319317729
+      BombermaniPodBomberman_101: 1073862200
+      BombermaniPodBomberman_102: 868902138
+      BombermaniPodBomberman_103: 61229676
+      BombermaniPodBomberman_104: -2113256967
+      BombermaniPodBomberman_105: 1282538947
+      BombermaniPodBomberman_106: 361414211
+      BombermaniPodBomberman_107: 1267361377
+      BombermaniPodBomberman_108: -2094693676
+      BombermaniPodBomberman_109: -661496614
+      BombermaniPodBomberman_11: 1804965362
+      BombermaniPodBomberman_110: -1629727595
+      BombermaniPodBomberman_111: 1227070897
+      BombermaniPodBomberman_112: 938295767
+      BombermaniPodBomberman_113: -145015581
+      BombermaniPodBomberman_114: 658995880
+      BombermaniPodBomberman_115: -959980280
+      BombermaniPodBomberman_116: 294029791
+      BombermaniPodBomberman_117: -1646107916
+      BombermaniPodBomberman_118: -631679231
+      BombermaniPodBomberman_119: -1227829906
+      BombermaniPodBomberman_12: 2109756353
+      BombermaniPodBomberman_120: 1962406219
+      BombermaniPodBomberman_121: -1289014818
+      BombermaniPodBomberman_122: 2037615335
+      BombermaniPodBomberman_123: 644558456
+      BombermaniPodBomberman_124: -1689397809
+      BombermaniPodBomberman_125: 643772416
+      BombermaniPodBomberman_126: -2107064317
+      BombermaniPodBomberman_127: -1267462164
+      BombermaniPodBomberman_128: -1034239894
+      BombermaniPodBomberman_13: -1590146006
+      BombermaniPodBomberman_14: -752787385
+      BombermaniPodBomberman_15: 1996326452
+      BombermaniPodBomberman_16: 1618923318
+      BombermaniPodBomberman_17: -1217383781
+      BombermaniPodBomberman_18: -188959973
+      BombermaniPodBomberman_19: -1357841513
+      BombermaniPodBomberman_2: -293615439
+      BombermaniPodBomberman_20: -1704827166
+      BombermaniPodBomberman_21: -1956860967
+      BombermaniPodBomberman_22: -2056922837
+      BombermaniPodBomberman_23: 1058340659
+      BombermaniPodBomberman_24: 986143421
+      BombermaniPodBomberman_25: 521678453
+      BombermaniPodBomberman_26: 1045683891
+      BombermaniPodBomberman_27: -196039968
+      BombermaniPodBomberman_28: -55686188
+      BombermaniPodBomberman_29: -1193569632
+      BombermaniPodBomberman_3: 1904350610
+      BombermaniPodBomberman_30: 1009751845
+      BombermaniPodBomberman_31: 430192917
+      BombermaniPodBomberman_32: -108399476
+      BombermaniPodBomberman_33: -774485131
+      BombermaniPodBomberman_34: 1644857373
+      BombermaniPodBomberman_35: -149954115
+      BombermaniPodBomberman_36: 562530667
+      BombermaniPodBomberman_37: 310555826
+      BombermaniPodBomberman_38: -1344120453
+      BombermaniPodBomberman_39: 589720208
+      BombermaniPodBomberman_4: -911355090
+      BombermaniPodBomberman_40: -796630828
+      BombermaniPodBomberman_41: -533547300
+      BombermaniPodBomberman_42: 1849324575
+      BombermaniPodBomberman_43: 1253649174
+      BombermaniPodBomberman_44: 1510489686
+      BombermaniPodBomberman_45: -381204042
+      BombermaniPodBomberman_46: -568106715
+      BombermaniPodBomberman_47: 1224706675
+      BombermaniPodBomberman_48: 356603553
+      BombermaniPodBomberman_49: -2057941979
+      BombermaniPodBomberman_5: 1825727514
+      BombermaniPodBomberman_50: -1140879060
+      BombermaniPodBomberman_51: -1285610519
+      BombermaniPodBomberman_52: -694885085
+      BombermaniPodBomberman_53: -1204292258
+      BombermaniPodBomberman_54: -1269100288
+      BombermaniPodBomberman_55: -2073034315
+      BombermaniPodBomberman_56: -1682900479
+      BombermaniPodBomberman_57: -304102017
+      BombermaniPodBomberman_58: -554454229
+      BombermaniPodBomberman_59: 1665207955
+      BombermaniPodBomberman_6: -549315384
+      BombermaniPodBomberman_60: -1520290353
+      BombermaniPodBomberman_61: 2005846133
+      BombermaniPodBomberman_62: -1456885166
+      BombermaniPodBomberman_63: 980966448
+      BombermaniPodBomberman_64: -258841282
+      BombermaniPodBomberman_65: -160735661
+      BombermaniPodBomberman_66: -1491058659
+      BombermaniPodBomberman_67: -1336509934
+      BombermaniPodBomberman_68: 47828633
+      BombermaniPodBomberman_69: 735685838
+      BombermaniPodBomberman_7: 1269226612
+      BombermaniPodBomberman_70: -990782438
+      BombermaniPodBomberman_71: -1408193872
+      BombermaniPodBomberman_72: 525499899
+      BombermaniPodBomberman_73: 361055229
+      BombermaniPodBomberman_74: -1257958167
+      BombermaniPodBomberman_75: 1458489236
+      BombermaniPodBomberman_76: -1652181530
+      BombermaniPodBomberman_77: 1272560067
+      BombermaniPodBomberman_78: 578271997
+      BombermaniPodBomberman_79: -943445168
+      BombermaniPodBomberman_8: 2116262467
+      BombermaniPodBomberman_80: 1852391499
+      BombermaniPodBomberman_81: 538750766
+      BombermaniPodBomberman_82: -1938289715
+      BombermaniPodBomberman_83: -552924449
+      BombermaniPodBomberman_84: 1812532810
+      BombermaniPodBomberman_85: 1593658186
+      BombermaniPodBomberman_86: -808243627
+      BombermaniPodBomberman_87: 725449472
+      BombermaniPodBomberman_88: -473209832
+      BombermaniPodBomberman_89: 1857769048
+      BombermaniPodBomberman_9: 1061268041
+      BombermaniPodBomberman_90: -2017332992
+      BombermaniPodBomberman_91: -775320691
+      BombermaniPodBomberman_92: 822767247
+      BombermaniPodBomberman_93: 1177732906
+      BombermaniPodBomberman_94: -1351222420
+      BombermaniPodBomberman_95: -1150332508
+      BombermaniPodBomberman_96: 1432484021
+      BombermaniPodBomberman_97: -1848439334
+      BombermaniPodBomberman_98: 857204927
+      BombermaniPodBomberman_99: -2072555523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
